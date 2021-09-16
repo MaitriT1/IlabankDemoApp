@@ -39,6 +39,4 @@ class DummyViewModel : ViewModel() {
         )
         dummmyData.value = data
     }
-
-
 }
