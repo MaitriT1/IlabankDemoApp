@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/IlabankDemoApp/app/src/main/res/drawable/default_selected_dot.xml" value="0.19479166666666667" />
+        <entry key="..\:/IlabankDemoApp/app/src/main/res/drawable/default_unselected_dot.xml" value="0.19479166666666667" />
+        <entry key="..\:/IlabankDemoApp/app/src/main/res/drawable/gradient.xml" value="0.19479166666666667" />
+        <entry key="..\:/IlabankDemoApp/app/src/main/res/drawable/round_corner.xml" value="0.26875" />
+        <entry key="..\:/IlabankDemoApp/app/src/main/res/layout/activity_scrolling.xml" value="0.22" />
+        <entry key="..\:/IlabankDemoApp/app/src/main/res/layout/content_scrolling.xml" value="0.25" />
+        <entry key="..\:/IlabankDemoApp/app/src/main/res/layout/pager_row.xml" value="0.1308876811594203" />
+        <entry key="..\:/IlabankDemoApp/app/src/main/res/layout/row_recycler.xml" value="0.24453125" />
+        <entry key="..\:/IlabankDemoApp/app/src/main/res/layout/row_slidingimage.xml" value="0.1" />
+        <entry key="..\:/IlabankDemoApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.26875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
